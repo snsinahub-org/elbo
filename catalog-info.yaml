@@ -4,8 +4,8 @@ metadata:
   name: elbo
   annotations:
     github.com/project-slug: snsinahub-org/elbo
-    backstage.io/techdocs-ref: .
+    backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: development
   owner: guests
