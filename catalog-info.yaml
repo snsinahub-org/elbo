@@ -4,7 +4,7 @@ metadata:
   name: elbo
   annotations:
     github.com/project-slug: snsinahub-org/elbo
-    backstage.io/techdocs-ref: backstage.io/techdocs-ref: url:https://github.com/snsinahub-org/elbo/tree/main
+    backstage.io/techdocs-ref: url:https://github.com/snsinahub-org/elbo/tree/main
 spec:
   type: website
   lifecycle: development
