@@ -4,6 +4,7 @@ metadata:
   name: elbo
   annotations:
     github.com/project-slug: snsinahub-org/elbo
+    backstage.io/techdocs-ref: .
 spec:
   type: other
   lifecycle: unknown
